@@ -24,6 +24,7 @@ This **Employee Management System** is a full-stack web application designed to 
 ## Technology Stack
 
 - **Frontend**:
+  - Vite
   - React.js
   - Axios (for API communication)
 
@@ -39,6 +40,7 @@ This **Employee Management System** is a full-stack web application designed to 
 - **Other Tools**:
   - Docker (for containerization)
   - bcrypt (for password hashing)
+  - MySQL Workbench
 
 ## Installation
 
@@ -86,7 +88,6 @@ Ensure you have the following installed:
 4. Run the Application:
 
    ```bash
-   # Start Docker containers
    docker-compose up --build
    ```
 
